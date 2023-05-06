@@ -9,7 +9,7 @@
     "allure:open": "npx allure serve",
     "sorry:cypress": "CYPRESS_API_URL=\"http://localhost:1234/\" npx cy2 run --record --key EBAC --parallel --ci-build-id `date +%s`"
   },
-  "author": "ernestosbarbosa",
+  "author": "JessicaTeixeiraAraujo",
   "license": "ISC",
   "dependencies": {
     "@shelex/cypress-allure-plugin": "^2.19.5",
